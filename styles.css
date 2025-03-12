@@ -1,0 +1,15 @@
+body {
+  background-color: grey;
+}
+
+div {
+  background-color: lavender;
+  border-radius: 10px;
+  padding: 10px;
+  border: solid pink 2px;
+  margin: 10px;
+}
+
+.weight:hover {
+  color: red;
+}
