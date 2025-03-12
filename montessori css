@@ -1,0 +1,50 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F4E1C1; /* Camel Beige */
+    color: #2C3E50; /* Dark Blue */
+}
+
+/* Header */
+header {
+    background-color: #4169E1; /* Cornflower Blue */
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+/* Main Content */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Activity Section */
+.activity h2 {
+    color: #A33A2A; /* Brick Red */
+}
+
+.activity p, .activity ol {
+    margin-bottom: 10px;
+}
+
+/* Footer */
+footer {
+    background-color: #2C3E50; /* Dark Blue */
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 20px;
+}
